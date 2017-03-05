@@ -14,9 +14,9 @@ Be notified of all conversations by **watching** [this GitHub repository](https:
 
 ![image](https://cloud.githubusercontent.com/assets/5856545/23587228/791c4552-0175-11e7-9d52-c2d7f5b1235f.png)
 
-Discuss a new idea or view by opening a [new issue](https://github.com/forestgeo/forestr/issues/new).
+Discuss a new idea or view by opening a [new issue](https://github.com/forestgeo/forum/issues).
 
-![image](https://cloud.githubusercontent.com/assets/5856545/23587268/69008d8a-0176-11e7-9574-69bc1a4d25a1.png)
+![image](https://cloud.githubusercontent.com/assets/5856545/23587403/2091764c-0179-11e7-96ef-724d72f3e6dc.png)
 
 Contact [\@mauro_lepore](https://twitter.com/mauro_lepore)
 
