@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/292807/d6fe271d0d894d30be18f79c534f1c2f
+bundleId: https://api.rpubs.com/api/v1/document/292807/d6fe271d0d894d30be18f79c534f1c2f
+url: http://rpubs.com/forestgeo/292807
+when: 1500579681.82211
