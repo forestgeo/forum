@@ -3,7 +3,7 @@ title: "Proposed tutorials and people in each"
 output: github_document
 ---
 
-Below is a list of proposed topics for tutorials, and of people interested in each (so far). If you want to propose or join a tutorial, follow [this issue](https://github.com/forestgeo/forum/issues/2) or email maurolepore@gmail.com. Most people is interested in GitHub.
+Below is a list of proposed topics for tutorials, and of people interested in each (so far). If you want to propose or join a tutorial, follow [this issue](https://github.com/forestgeo/forum/issues/2) or email maurolepore@gmail.com.
 
 
 
@@ -31,6 +31,7 @@ Aiming to audiences of 3 levels, I plan 3 tutorials.
 1. Musalmah (1-2)
 1. Yao (1-2)
 1. Yu Zhu, orienton2006@163.com (1-2)
+1. Jenny Zambrano jzambrano@sesync.org (1-2)
 1. @hqzzlo (1-2)
 1. @matthewluskin
 1. @jameshogan
@@ -67,17 +68,17 @@ What day and time you prefer? https://goo.gl/KJmtR7
 
 This tutorial is for those with a GitHub account, that have already installed Git (Git is the engine of GitHub), R and RStudio; these people configured it all but haven't fully incorporated these tools into their workflow.
 
-Contents: This is a good guide for what contents we will cover: http://r-pkgs.had.co.nz/git.html.
-
-
+Contents: These are good guide for what contents we may cover: 
+- http://r-pkgs.had.co.nz/git.html.
+- http://happygitwithr.com/
 
 ## GitHub tutorial 3: Using git beyond RStudio; the GitHub Work Flow, with master and issue-branches
 
-What day and time you prefer? 
+What day and time you prefer? https://goo.gl/HEooiw
 
 This tutorial is for those that use GitHub but want to use branches and Git from a shell to get more power.
 
-Contents: I will cover the [GitHub workflow](http://scottchacon.com/2011/08/31/github-flow.html). To learn other workflows see [this article](http://nvie.com/posts/a-successful-git-branching-model/).
+Contents: I will cover the GitHub workflow: https://goo.gl/Gx2SYn. To learn other workflows see this article: https://goo.gl/EzSuwQ.
 
 
 
