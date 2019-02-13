@@ -1,5 +1,6 @@
-If you have a question, ask it directly here or say that you want to join our workspace on <https://forestgeo.slack.com/>. You may also ask on
-<https://stackoverflow.com/>, <https://community.rstudio.com/>, or email Mauro Lepore at <maurolepore@gmail.com>.
+If you have a question, ask it directly here or say that you want to join our workspace on <https://forestgeo.slack.com/>. 
+
+You may also ask on <https://stackoverflow.com/>, <https://community.rstudio.com/>, or email Mauro Lepore at <maurolepore@gmail.com>.
 
 ---
 
@@ -10,3 +11,4 @@ Brief description of the problem
 ```r
 # insert reprex here
 ```
+
